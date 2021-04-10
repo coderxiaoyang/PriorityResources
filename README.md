@@ -8,4 +8,11 @@
 
 [Python 为什么系列](https://github.com/chinesehuazhou/python-whydo)
 
+[Python 资源大全中文版](https://github.com/lufeisan/awesome-python-cn)
+
+[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
+[What the f*ck Python!](https://github.com/leisurelicht/wtfpython-cn)
+
+
 
